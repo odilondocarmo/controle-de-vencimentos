@@ -8,3 +8,4 @@ Framework: AdonisJS
 * Clientes
 * Separadores
 * Vencimentos
+* teste
